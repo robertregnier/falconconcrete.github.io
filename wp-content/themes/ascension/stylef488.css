@@ -3663,7 +3663,7 @@ body.layout-one-column-narrow #content {
  */
 @font-face {
   font-family: 'Genericons';
-  src: url("http://falconconcrete.ca/wp-content/themes/ascension/assets/genericons/font/genericons-regular-webfont.eot"); }
+  src: url("assets/genericons/font/genericons-regular-webfont.html"); }
 
 @font-face {
   font-family: 'Genericons';
